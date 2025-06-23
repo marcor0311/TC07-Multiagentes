@@ -1,0 +1,8 @@
+---JURISPRUDENCIA---
+Año: 2020
+Tribunal: Sala Segunda
+Resolución: 084-2020
+Tema: Derecho de los socios a revisar libros contables
+Jurisprudencia_Aplicada: Código de Comercio, Art. 307
+Resumen: El tribunal reafirma el derecho de todo socio, sin importar su porcentaje accionario, a examinar los libros de la empresa, siempre que no se vulnere la confidencialidad de terceros ni la operación continua del negocio.
+---FIN---

@@ -1,0 +1,8 @@
+---LEGISLACION---
+Año: 2021
+Ley: Ley de Transparencia Fiscal Empresarial
+Artículo: 12
+Tema: Reporte de cumplimiento tributario
+Norma_Aplicada: Código de Normas Tributarias
+Resumen: Las empresas deberán presentar un reporte anual de cumplimiento tributario detallado, incluyendo sus ingresos brutos, deducciones aplicadas y pagos realizados, el cual será accesible para revisión por la Superintendencia General de Tributación.
+---FIN---

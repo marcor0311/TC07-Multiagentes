@@ -1,0 +1,8 @@
+---LEGISLACION---
+Año: 2020
+Ley: Ley de Registro Digital Corporativo
+Artículo: 8
+Tema: Registro de representantes legales
+Norma_Aplicada: Ley General de Sociedades
+Resumen: Las sociedades anónimas deberán actualizar anualmente su información de representantes legales en una plataforma digital habilitada por el Ministerio de Economía.
+---FIN---

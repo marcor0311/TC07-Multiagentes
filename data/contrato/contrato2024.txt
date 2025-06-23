@@ -1,0 +1,13 @@
+---CONTRATO---
+Año: 2024
+Mes: 01
+Empresa: LegalTech Corp.
+Tipo: Implementación de Sistema Automatizado
+Monto_CRC: 30000000
+[Cláusulas]
+Duración: 12 meses
+Pago: 30% al inicio, 40% a mitad, 30% al finalizar
+Propiedad: Transferida a Cacti S.A.
+Confidencialidad: 5 años
+Resumen: Contrato para la implementación de un sistema automatizado de atención legal en línea para clientes corporativos.
+---FIN---

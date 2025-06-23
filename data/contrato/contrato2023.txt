@@ -1,0 +1,13 @@
+---CONTRATO---
+Año: 2023
+Mes: 03
+Empresa: NexaDigital
+Tipo: Consultoría Legal
+Monto_CRC: 18250000
+[Cláusulas]
+Duración: 6 meses
+Pago: 50% al inicio, 50% al finalizar
+Propiedad: Cacti S.A.
+Confidencialidad: 3 años
+Resumen: Consultoría en cumplimiento normativo para el nuevo reglamento de protección de datos personales.
+---FIN---

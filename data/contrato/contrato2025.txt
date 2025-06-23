@@ -1,0 +1,13 @@
+---CONTRATO---
+Año: 2025
+Mes: 01
+Empresa: Cacti S.A.
+Tipo: Expansión de Infraestructura Digital
+Monto_CRC: 32000000
+[Cláusulas]
+Duración: 8 meses
+Pago: 30% al inicio, 40% a mitad, 30% al finalizar
+Propiedad: Compartida con proveedor
+Confidencialidad: 4 años
+Resumen: Contrato para la expansión de infraestructura digital de Cacti S.A. incluyendo servidores, seguridad y conectividad regional.
+---FIN---

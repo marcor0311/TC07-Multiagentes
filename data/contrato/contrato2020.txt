@@ -1,0 +1,13 @@
+---CONTRATO---
+Año: 2020
+Mes: 02
+Empresa: Alpha Solutions S.A.
+Tipo: Desarrollo de Software
+Monto_CRC: 18000000
+[Cláusulas]
+Duración: 8 meses
+Pago: 40% inicial, 60% contra entrega
+Propiedad: Transferida a Cacti S.A.
+Confidencialidad: 5 años
+Resumen: Contrato para el desarrollo de una plataforma de gestión interna para Cacti S.A.
+---FIN---

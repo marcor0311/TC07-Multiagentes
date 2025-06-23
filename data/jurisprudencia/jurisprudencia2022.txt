@@ -1,0 +1,8 @@
+---JURISPRUDENCIA---
+Año: 2022
+Tribunal: Sala Segunda
+Resolución: 045-2022
+Tema: Impugnación de acuerdos de asamblea por omisión de convocatoria
+Jurisprudencia_Aplicada: Código de Comercio, Art. 286
+Resumen: Se anuló un acuerdo de asamblea porque la asamblea se celebró sin convocar formalmente a todos los accionistas, violando los principios de legalidad y transparencia.
+---FIN---

@@ -1,0 +1,13 @@
+---CONTRATO---
+Año: 2021
+Mes: 03
+Empresa: FinanciaTec S.R.L.
+Tipo: Consultoría Financiera
+Monto_CRC: 7200000
+[Cláusulas]
+Duración: 6 meses
+Pago: 50% al inicio, 50% al finalizar
+Propiedad: Cacti S.A.
+Confidencialidad: 3 años
+Resumen: Contrato para análisis financiero, planeación fiscal y revisión de cumplimiento tributario.
+---FIN---

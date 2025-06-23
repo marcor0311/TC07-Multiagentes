@@ -1,0 +1,8 @@
+---LEGISLACION---
+Año: 2022
+Ley: Ley de Protección de Datos Empresariales
+Artículo: 12
+Tema: Seguridad digital y protección de datos
+Norma_Aplicada: Ley de Protección de la Persona frente al Tratamiento de sus Datos Personales
+Resumen: Las empresas deberán implementar medidas de seguridad digital para proteger los datos sensibles de sus clientes y socios comerciales. Las auditorías de cumplimiento serán anuales.
+---FIN---

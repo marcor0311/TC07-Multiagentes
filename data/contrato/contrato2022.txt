@@ -1,0 +1,13 @@
+---CONTRATO---
+Año: 2022
+Mes: 01
+Empresa: BlueSoft Group
+Tipo: Desarrollo Web
+Monto_CRC: 15600000
+[Cláusulas]
+Duración: 10 meses
+Pago: 40% inicial, 60% contra entrega
+Propiedad: Transferida a Cacti S.A.
+Confidencialidad: 5 años
+Resumen: Diseño e implementación de una nueva plataforma de comercio electrónico para Cacti S.A.
+---FIN---
