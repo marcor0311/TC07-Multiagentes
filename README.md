@@ -2,6 +2,8 @@
 
 [Video de Presentación](https://drive.google.com/file/d/1VMgCbDIQcOl8HY2lbyLXFEq-h8lzNETi/view?usp=sharing)
 
+![image](https://github.com/user-attachments/assets/92ad01c1-a103-426e-aeb1-3ed508212845)
+
 Caso escogido: Asistente Legal Inteligente: Ayuda a redactar respuestas legales a partir de legislación, jurisprudencia y contratos.
 
 Sistema multi‑agente basado en **LangChain** + **LangGraph** que genera informes legales automatizados para **Cacti S.A.**.  
@@ -9,7 +11,7 @@ Combina recuperación semántica (RAG sobre **Chroma**) y generación con **Open
 
 ---
 
-## Estructura rápida
+## Estructura
 
 ```
 .
@@ -64,4 +66,3 @@ python main.py
 - **Chroma Vector Store** almacena contratos, jurisprudencia y legislación.
 - **Embeddings usando OpenaAI API** crea/actualiza vectores (dotted arrows en el diagrama).
 - **GPT‑4o API** responde prompts del *redactor_legal* (RAG).
-
